@@ -1,21 +1,36 @@
 # Hi 👋, I'm Pradeep Kumar Gupta (Alven Alex)
 
-### 🚀 Frontend Developer | Python Enthusiast | UI/UX Designer
+### Entry-Level Data & Automation Enthusiast
 
-- 🌍 I'm based in India
-- 🖥️ See my portfolio at [https://mryash-ftp.github.io/Alven/](https://mryash-ftp.github.io/Alven/)
-- ✉️ Contact me: [mryashftp@gmail.com]
-
----
-
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Focused on structured data workflows, Python automation, and responsive web development.  
+Currently building practical projects to strengthen real-world technical skills.
 
 ---
 
-### 📊 My GitHub Stats
+### 🌍 About Me
+- 📍 Based in India  
+- 🎯 Career Goal: Data Analytics & Automation  
+- 🌐 Portfolio: https://mryash-ftp.github.io/Alven/  
+- 📫 Email: mryashftp@gmail.com  
 
+---
+
+### 🛠️ Technical Skills
+- **Excel** – Data cleaning, pivot tables, structured reporting  
+- **Python** – Pandas, CSV processing, automation scripts  
+- **Web Development** – HTML, CSS, JavaScript  
+- **Learning** – Power BI, SQL  
+
+---
+
+### 📌 Current Focus (2026 Roadmap)
+- Strengthening Python automation skills  
+- Building real-world data projects  
+- Preparing for international career opportunities  
+
+---
+
+### 📊 GitHub Stats
 ![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mryash-ftp&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-ftp&layout=compact&theme=radical)
-
