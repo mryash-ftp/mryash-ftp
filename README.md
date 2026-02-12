@@ -4,7 +4,7 @@
 
 - 🌍 I'm based in India
 - 🖥️ See my portfolio at [https://mryash-ftp.github.io/Alven/](https://mryash-ftp.github.io/Alven/)
-- ✉️ Contact me: [Tumhara Email Yahan Likho]
+- ✉️ Contact me: [mryashftp@gmail.com]
 
 ---
 
