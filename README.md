@@ -15,6 +15,7 @@
 
 ### 📊 My GitHub Stats
 
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mryash-ftp&show_icons=true&theme=radical)
+![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mryash-ftp&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-ftp&layout=compact&theme=radical)
+
