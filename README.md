@@ -1,36 +1,38 @@
-# Hi 👋, I'm Pradeep Kumar Gupta (Alven Alex)
+# Hi 👋, I'm Alven Alex (Pradeep)
 
-### Entry-Level Data & Automation Enthusiast
-
-Focused on structured data workflows, Python automation, and responsive web development.  
-Currently building practical projects to strengthen real-world technical skills.
+### 🤖 Aspiring Tech Innovator | AI & Automation Enthusiast
+I am a 19-year-old developer from India on a mission to merge **Futuristic Technology** with **Practical Security Solutions**. I believe in the power of "Human + AI" collaboration to build smarter tools.
 
 ---
 
-### 🌍 About Me
-- 📍 Based in India  
-- 🎯 Career Goal: Data Analytics & Automation  
-- 🌐 Portfolio: https://mryash-ftp.github.io/Alven/  
-- 📫 Email: mryashftp@gmail.com  
+### 🛠️ What I’m Building (Current Progress)
+
+- **🐍 Python:** Currently mastering the fundamentals. Comfortable with `loops`, `lists`, and `logic`. Moving towards automation and file handling.
+- **🌐 Web Development:** Crafting UI with `HTML` & `CSS`. Learning the ropes of `JavaScript` to make things interactive.
+- **📶 IoT & Hardware:** Just started my journey into **Internet of Things (IoT)**. Exploring how hardware talks to software.
+- **🛡️ Cybersecurity:** Experimenting with AI-driven file investigation and system safety (The "Alvenx" Concept).
 
 ---
 
-### 🛠️ Technical Skills
-- **Excel** – Data cleaning, pivot tables, structured reporting  
-- **Python** – Pandas, CSV processing, automation scripts  
-- **Web Development** – HTML, CSS, JavaScript  
-- **Learning** – Power BI, SQL  
+### 🧠 My Philosophy: Human-AI Collaboration
+I actively use AI tools to accelerate my development process, but I believe the **"Human Mind"** is the final boss. I review, debug, and optimize every line of code I ship to ensure it meets my standards.
 
 ---
 
-### 📌 Current Focus (2026 Roadmap)
-- Strengthening Python automation skills  
-- Building real-world data projects  
-- Preparing for international career opportunities  
+### 📌 2026 Roadmap
+- [ ] Complete O-Level (M3 & M4)
+- [ ] Build a fully functional AI-based "Investigation Bin" tool
+- [ ] Achieve JLPT N5/N4 proficiency for my Japan 🇯🇵 dream
+- [ ] Master Python Data Structures
 
 ---
 
-### 📊 GitHub Stats
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mryash-ftp&show_icons=true&theme=dark)
+### 🌍 Connect with me
+- 🌐 Portfolio: [mryash-ftp.github.io/Alven/](https://mryash-ftp.github.io/Alven/)
+- 📧 Email: mryashftp@gmail.com
+- 🎯 Aiming for: **MEXT Scholarship 2027**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-ftp&layout=compact&theme=radical)
+---
+
+### 📊 My Growth
+![Alven's GitHub stats](https://github-readme-stats.vercel.app/api?username=mryash-ftp&show_icons=true&theme=dark)
