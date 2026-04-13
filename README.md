@@ -1,44 +1,55 @@
-# Hi 👋, I'm Alven Alex (Pradeep)
+# Hi 👋, I'm **Alven Alex** (Pradeep) 👨‍💻
 
-### 🤖 Aspiring Tech Innovator | AI & Automation Enthusiast
-19-year-old developer from India on a mission to merge Futuristic Technology with Practical Security Solutions. I believe in "Human + AI" collaboration to build smarter tools.
+### 🤖 **Aspiring Tech Innovator** | **AI & Automation Enthusiast** | **MEXT 2027 Japan 🇯🇵**
+19-year-old developer from **Kushinagar, India** on a mission to merge **Futuristic Tech** with **Practical Security Solutions**.
 
----
-
-### 🛠️ What I’m Building (Current Progress)
-
-[![Japan-Vision](https://img.shields.io/badge/Japan%20Vision-MEXT%202027-blue?style=flat&logo=python)](https://github.com/mryash-ftp/Japan-Vision)
-
-- **🐍 Python Learning:** [Daily commits →](https://github.com/mryash-ftp/Japan-Vision/tree/main/Python/Python_Learning)
-- **🇯🇵 MEXT Roadmap:** Structured Japan scholarship preparation
-- **🌐 Web Development:** Crafting UI with `HTML` & `CSS`. Learning the ropes of `JavaScript` to make things interactive.
-- **📶 IoT & Hardware:** Just started exploring how hardware meets software.
-- **🛡️ Cybersecurity:** Experimenting with AI-driven file investigation and system safety (The "Alvenx" Concept).
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mryash-ftp&theme=dark)](https://github.com/mryash-ftp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-ftp&layout=compact&theme=dark)](https://github.com/mryash-ftp)
 
 ---
 
-### 🧠 My Philosophy: Human-AI Collaboration
-I actively use AI tools to accelerate my development process, but I believe the **"Human Mind"** is the final boss. I review, debug, and optimize every line of code I ship to ensure it meets my standards.
+## 🚀 **What I’m Building** *(Current Progress)*
+
+[![Japan-Vision](https://img.shields.io/badge/Japan%20Vision-MEXT%202027-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mryash-ftp/Japan-Vision)
+
+| **Skill** | **Status** | **Next Goal** |
+|-----------|------------|---------------|
+| 🐍 **Python** | 🔄 Daily Learning | Data Structures |
+| 🇯🇵 **MEXT Prep** | 📚 Japan-Vision Repo | JLPT N5 |
+| 🌐 **Web Dev** | HTML/CSS | JavaScript |
+| 🛡️ **Cybersecurity** | 🤖 AI Experiments | Investigation Bin |
+
+**📚 Daily Python Practice:** [![Python Learning](https://img.shields.io/badge/Python%20Learning-Daily%20Commits-green?style=flat&logo=python)](https://github.com/mryash-ftp/Japan-Vision/tree/main/Python/Python_Learning)
 
 ---
 
-### 📌 2026 Roadmap
-- [ ] Complete O-Level (M3 & M4)
+## 🧠 **My Philosophy: Human + AI = Future**
+> *"AI tools accelerate, but Human Mind innovates."*
 
-- [ ] Build AI-based "Investigation Bin" tool
-
-- [ ] JLPT N5/N4 proficiency (Japan 🇯🇵 dream)
-
-- [ ] Master Python Data Structures
+I use AI for speed, but personally review every line of code. **Quality > Quantity.**
 
 ---
 
-### 🌍 Connect with me
-- 🌐 Portfolio: [mryash-ftp.github.io/Alven/](https://mryash-ftp.github.io/Alven/)
-- 📧 Email: mryashftp@gmail.com
-- 🎯 Aiming for: **MEXT Scholarship 2027**
+## 📅 **2026 Roadmap** 
+[![Progress](https://img.shields.io/badge/Progress-25%25-complete-brightgreen)](https://github.com/mryash-ftp)
+
+- [x] **Python Loops + Lists** ✅
+- [ ] **O-Level (M3-R4, M4-R4)**
+- [ ] **AI Investigation Bin Tool**
+- [ ] **JLPT N5** (July 2026)
+- [ ] **Python Data Structures**
+- [x] **Japan-Vision Repo** ✅
 
 ---
 
-### 📊 My Growth
-![Alven's GitHub stats](https://github-readme-stats.vercel.app/api?username=mryash-ftp&show_icons=true&theme=dark)
+## 🌍 **Connect & Collaborate**
+[![Portfolio](https://img.shields.io/badge/Portfolio-mryash--ftp.github.io/Alven-blue?style=flat&logo=html5)](https://mryash-ftp.github.io/Alven/)
+[![Email](https://img.shields.io/badge/Email-mryashftp@gmail.com-red?style=flat&logo=gmail)](mailto:mryashftp@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mryash--ftp-181717?style=flat&logo=github)](https://github.com/mryash-ftp)
+
+**🎯 Aiming:** MEXT Scholarship 2027 | Japan AI/ML Studies
+
+---
+
+## 📈 **My GitHub Analytics**
+![Alven's Stats](https://github-readme-stats.vercel.app/api?username=mryash-ftp&show_icons=true&theme=dark&hide_border=true)
