@@ -7,7 +7,10 @@
 
 ### 🛠️ What I’m Building (Current Progress)
 
-- **🐍 Python:** Currently mastering the fundamentals. Comfortable with `loops`, `lists`, and `logic`. Moving towards automation and file handling.
+[![Japan-Vision](https://img.shields.io/badge/Japan%20Vision-MEXT%202027-blue?style=flat&logo=python)](https://github.com/mryash-ftp/Japan-Vision)
+
+- **🐍 Python Learning:** [Daily commits →](https://github.com/mryash-ftp/Japan-Vision/tree/main/Python/Python_Learning)
+- **🇯🇵 MEXT Roadmap:** Structured Japan scholarship preparation
 - **🌐 Web Development:** Crafting UI with `HTML` & `CSS`. Learning the ropes of `JavaScript` to make things interactive.
 - **📶 IoT & Hardware:** Just started exploring how hardware meets software.
 - **🛡️ Cybersecurity:** Experimenting with AI-driven file investigation and system safety (The "Alvenx" Concept).
