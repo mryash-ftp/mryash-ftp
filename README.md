@@ -32,6 +32,7 @@ I use AI for speed, but personally review every line of code. **Quality > Quanti
 
 ## 📅 **2026 Roadmap** 
 [![Progress](https://img.shields.io/badge/Progress-25%25-complete-brightgreen)](https://github.com/mryash-ftp)
+
 - [x] **Python Loops + Lists** ✅
 - [ ] **O-Level (M3-R4, M4-R4)**
 - [ ] **AI Investigation Bin Tool**
