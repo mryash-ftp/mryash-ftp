@@ -1,7 +1,7 @@
 # Hi 👋, I'm **Alven Alex** (Pradeep) 👨‍💻
 
 ### 🤖 **Aspiring Tech Innovator** | **AI & Automation Enthusiast** | **MEXT 2027 Japan 🇯🇵**
-19-year-old developer from **Kushinagar, India** on a mission to merge **Futuristic Tech** with **Practical Security Solutions**.
+19-year-old developer from **India** on a mission to merge **Futuristic Tech** with **Practical Security Solutions**.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mryash-ftp&theme=dark)](https://github.com/mryash-ftp)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-ftp&layout=compact&theme=dark)](https://github.com/mryash-ftp)
