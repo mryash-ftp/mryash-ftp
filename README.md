@@ -4,7 +4,8 @@
 19-year-old developer from **India** on a mission to merge **Futuristic Tech** with **Practical Security Solutions**.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mryash-ftp&theme=dark)](https://github.com/mryash-ftp)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-ftp&layout=compact&theme=radical)](https://github.com/mryash-ftp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-ftp&layout=compact&theme=dark)](https://github.com/mryash-ftp)
+
 ---
 
 ## 🚀 **What I’m Building** *(Current Progress)*
@@ -30,7 +31,8 @@ I use AI for speed, but personally review every line of code. **Quality > Quanti
 ---
 
 ## 📅 **2026 Roadmap** 
-![Alven's Stats](https://github-readme-stats.vercel.app/api?username=mryash-ftp&show_icons=true&theme=radical&hide_border=true)
+[![Progress](https://img.shields.io/badge/Progress-25%25-complete-brightgreen)](https://github.com/mryash-ftp)
+
 - [x] **Python Loops + Lists** ✅
 - [ ] **O-Level (M3-R4, M4-R4)**
 - [ ] **AI Investigation Bin Tool**
