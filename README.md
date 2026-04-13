@@ -30,7 +30,7 @@ I use AI for speed, but personally review every line of code. **Quality > Quanti
 ---
 
 ## 📅 **2026 Roadmap** 
-[![Progress](https://progress-bar.dev/25/?suffix=complete&color=brightgreen)](https://github.com/mryash-ftp)
+![Alven's Stats](https://github-readme-stats.vercel.app/api?username=mryash-ftp&show_icons=true&theme=radical&hide_border=true)
 - [x] **Python Loops + Lists** ✅
 - [ ] **O-Level (M3-R4, M4-R4)**
 - [ ] **AI Investigation Bin Tool**
