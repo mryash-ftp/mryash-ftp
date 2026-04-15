@@ -4,7 +4,7 @@
 19-year-old developer from **India** on a mission to merge **Futuristic Tech** with **Practical Security Solutions**.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mryash-ftp&theme=dark)](https://github.com/mryash-ftp)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-ftp&layout=compact&theme=dark&hide_border=true)](https://github.com/mryash-ftp)---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-ftp)
 
 ## 🚀 **What I’m Building** *(Current Progress)*
 
