@@ -29,7 +29,7 @@ I use AI for speed, but personally review every line of code. **Quality > Quanti
 ---
 
 ## 📅 **2026 Roadmap** 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mryash-ftp&show_icons=true&theme=dark&hide_border=true)
+[![Progress](https://progress-bar.dev/25/?suffix=complete&color=brightgreen)](https://github.com/mryash-ftp)
 
 - [x] **Python Loops + Lists** ✅
 - [ ] **O-Level (M3-R4, M4-R4)**
