@@ -34,7 +34,7 @@ I use AI for speed, but personally review every line of code. **Quality > Quanti
 - [ ] **O-Level (M3-R4, M4-R4)**
 - [ ] **AI Investigation Bin Tool**
 - [ ] **JLPT N5** (July 2026)
-- [ ] **Python Data Structures**
+- [x] **Python Data Structures**
 - [x] **Japan-Vision Repo** ✅
 
 ---
