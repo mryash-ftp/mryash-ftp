@@ -25,7 +25,7 @@
 
 I use AI for speed, but personally review every line of code. **Quality > Quantity.**
 
----
+-----
 
 ## 📅 **2026 Roadmap** 
 [![Progress](https://progress-bar.dev/25/?suffix=complete&color=brightgreen)](https://github.com/mryash-ftp)
