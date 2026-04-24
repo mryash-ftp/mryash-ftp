@@ -1,10 +1,6 @@
 # Hi 👋, I'm Alven Alex (Pradeep) 👨‍💻
 
-<p align="left">
-<a href="https://github.com/mryash-ftp">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Aspiring+Tech+Innovator;AI+%26+Automation+Enthusiast;MEXT+2027+Japan+Scholar+Candidate)
-</a>
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Aspiring+Tech+Innovator;AI+%26+Automation+Enthusiast;MEXT+2027+Japan+Scholar+Candidate)
 
 > 19-year-old developer from **India** on a mission to merge **Futuristic Tech** with **Practical Security Solutions**.
 
