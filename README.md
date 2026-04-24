@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://github.com/mryash-ftp">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Aspiring+Tech+Innovator;AI+%26+Automation+Enthusiast;MEXT+2027+Japan+Scholar+Candidate+🇯🇵" alt="Typing SVG" />
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Aspiring+Tech+Innovator;AI+%26+Automation+Enthusiast;MEXT+2027+Japan+Scholar+Candidate)
 </a>
 </p>
 
