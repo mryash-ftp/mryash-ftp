@@ -26,6 +26,7 @@
 - [x] **Python Loops + Lists** ✅
 - [x] **Python Data Structures** ✅
 - [x] **Japan-Vision Repo Setup** ✅
+- [x] **O-Level Exams (M1-R2, M2-R2)**
 - [ ] **O-Level Exams (M3-R4, M4-R4)**
 - [ ] **AI Investigation Bin Tool**
 - [ ] **JLPT N5 Exam** (July 2026)
