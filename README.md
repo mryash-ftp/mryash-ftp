@@ -41,7 +41,7 @@
 | **Skill** | **Status** | **Next Goal** |
 |-----------|------------|---------------|
 | 🐍 Python | 🔄 Daily Practice | Data Structures |
-| 🇯🇵 MEXT Prep | 📚 Japan-Vision | JLPT N5 |
+| 🇯🇵 MEXT Prep | 📚 Japan-Vision | JLPT N5 & N4 |
 
 ---
 
