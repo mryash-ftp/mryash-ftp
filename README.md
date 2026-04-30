@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux" />
 </p>
 
----
+------------------------------
 
 ### 🚀 Roadmap 2026
 - [x] **Python Loops + Lists** ✅
