@@ -7,7 +7,7 @@
 ---
 
 ### 🏮 Japan-Vision: Breaking the Reality Barrier  
-*My dream project and roadmap for the MEXT Scholarship.*
+*My dream project and roadmap for the MEXT Scholarship .*
 
 - 🐍 **Focus:** Computer Science, Automation & AI.
 - 🇯🇵 **Language:** JLPT N5 Prep (Target: July 2026).
