@@ -6,7 +6,7 @@
 
 ---
 
-### 🏮 Japan-Vision: Breaking the Reality Barrier  
+### 🏮 Japan-Vision: Breaking the Reality Barrier -- 
 *My dream project and roadmap for the MEXT Scholarship .*
 
 - 🐍 **Focus:** Computer Science, Automation & AI.
